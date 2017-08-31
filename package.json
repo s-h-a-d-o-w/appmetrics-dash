@@ -8,7 +8,8 @@
     "debug": "^2.6.0",
     "express": "^4.14.1",
     "express-basic-auth": "^1.0.1",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^1.7.4"
   },
   "optionalDependencies": {
     "node-report": "^2.1.0"
